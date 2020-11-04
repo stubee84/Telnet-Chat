@@ -1,0 +1,10 @@
+ChatServer_1604368005 2020/11/02 Fatal: pq: database "game" does not exist
+ChatServer_1604368036 2020/11/02 Info: api server has started
+ChatServer_1604368036 2020/11/02 Info: chat server has started
+ChatServer_1604368036 2020/11/02 Info: new client [::1]:57499 has connected
+ChatServer_1604368036 2020/11/02 Info: user stuart has entered chat...
+ChatServer_1604368036 2020/11/02 BROADCAST MESSAGE - web Nov  2 20:47:32#: hello all from web
+ChatServer_1604368036 2020/11/02 Info: new client [::1]:57503 has connected
+ChatServer_1604368036 2020/11/02 Info: user andrew has entered chat...
+ChatServer_1604368036 2020/11/02 BROADCAST MESSAGE - andrew Nov  2 20:47:41#: hello all
+ChatServer_1604368036 2020/11/02 BROADCAST MESSAGE - stuart Nov  2 20:47:26#: hey andrew

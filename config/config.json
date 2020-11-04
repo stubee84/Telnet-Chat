@@ -1,0 +1,9 @@
+{
+        "telnetPort": "23",
+        "httpPort": "80",
+        "maxClients": 4,
+        "logFile": "config/ChatServer",
+        "dialect": "postgres",
+        "connectionString": "postgres:\/\/postgres:password@localhost\/telnet?sslmode=disable"
+}
+
