@@ -1,4 +1,4 @@
-# Team Cymru Telnet Chat Server
+# Telnet Chat Server
 
 ## Overview
 
